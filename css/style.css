@@ -2,3 +2,6 @@ body{
   padding-top: 70px;
 }
 
+hr {
+  background-color: rgb(238, 228, 228);
+}
